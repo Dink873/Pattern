@@ -1,0 +1,801 @@
+id,score,comment,user_id,game_id
+1,1,Bad experience,172,131
+2,10,Great game,123,170
+3,6,Bad experience,44,215
+4,6,Fun,195,172
+5,6,Great game,151,86
+6,3,Fun,46,148
+7,6,Great game,13,299
+8,4,Fun,33,122
+9,4,Fun,170,94
+10,4,Fun,86,198
+11,2,Bad experience,101,251
+12,9,Mid,120,128
+13,10,Mid,176,82
+14,10,Fun,101,294
+15,10,Bad experience,29,70
+16,8,Mid,173,35
+17,5,Mid,46,9
+18,1,Fun,9,55
+19,9,Fun,86,224
+20,1,Fun,86,52
+21,5,Mid,131,87
+22,2,Mid,185,140
+23,2,Fun,191,143
+24,4,Bad experience,115,56
+25,7,Bad experience,50,123
+26,5,Great game,93,62
+27,4,Great game,44,272
+28,1,Bad experience,47,283
+29,10,Fun,172,210
+30,5,Fun,51,287
+31,3,Bad experience,179,145
+32,6,Bad experience,58,227
+33,1,Fun,55,266
+34,2,Mid,54,199
+35,9,Great game,113,256
+36,5,Bad experience,167,176
+37,1,Great game,187,6
+38,10,Great game,151,32
+39,7,Mid,101,289
+40,5,Fun,136,239
+41,1,Bad experience,13,68
+42,3,Bad experience,13,207
+43,8,Bad experience,53,65
+44,8,Bad experience,53,155
+45,9,Mid,149,82
+46,8,Mid,197,100
+47,10,Great game,73,199
+48,9,Great game,49,232
+49,6,Fun,84,127
+50,2,Great game,121,152
+51,5,Mid,179,239
+52,7,Bad experience,152,15
+53,9,Fun,62,211
+54,5,Mid,149,175
+55,8,Mid,181,215
+56,8,Great game,79,17
+57,2,Mid,70,180
+58,2,Mid,90,149
+59,6,Mid,84,148
+60,4,Bad experience,22,248
+61,6,Mid,194,259
+62,4,Mid,80,183
+63,1,Fun,11,239
+64,1,Mid,136,3
+65,2,Bad experience,89,245
+66,3,Fun,133,236
+67,9,Bad experience,174,231
+68,4,Fun,60,281
+69,2,Great game,142,26
+70,4,Bad experience,191,276
+71,10,Fun,165,275
+72,7,Fun,9,200
+73,1,Fun,57,52
+74,6,Bad experience,180,299
+75,4,Bad experience,69,259
+76,2,Bad experience,140,23
+77,4,Fun,172,14
+78,3,Bad experience,44,204
+79,7,Great game,172,121
+80,6,Mid,93,126
+81,4,Mid,131,158
+82,5,Fun,121,71
+83,7,Bad experience,26,155
+84,2,Great game,186,26
+85,3,Fun,186,227
+86,10,Fun,135,80
+87,9,Great game,115,84
+88,2,Bad experience,22,28
+89,7,Bad experience,121,175
+90,3,Mid,59,19
+91,7,Fun,144,144
+92,2,Great game,107,124
+93,3,Bad experience,21,167
+94,7,Great game,7,4
+95,2,Fun,181,143
+96,6,Great game,18,120
+97,6,Fun,195,25
+98,3,Mid,17,145
+99,2,Great game,110,4
+100,2,Fun,179,165
+101,5,Mid,71,205
+102,3,Mid,54,155
+103,2,Mid,90,48
+104,7,Fun,79,136
+105,5,Mid,36,74
+106,2,Mid,7,70
+107,3,Mid,16,128
+108,2,Mid,14,158
+109,3,Mid,1,271
+110,6,Great game,55,268
+111,9,Bad experience,190,198
+112,4,Mid,37,5
+113,7,Mid,119,245
+114,8,Mid,64,77
+115,1,Great game,189,49
+116,6,Fun,117,285
+117,8,Bad experience,177,53
+118,3,Mid,15,109
+119,4,Mid,112,236
+120,4,Bad experience,133,56
+121,2,Great game,107,171
+122,1,Fun,131,186
+123,1,Bad experience,52,168
+124,10,Fun,91,99
+125,8,Fun,41,45
+126,2,Fun,15,256
+127,3,Bad experience,167,82
+128,2,Great game,68,278
+129,10,Great game,184,300
+130,5,Mid,63,35
+131,7,Bad experience,18,84
+132,10,Fun,190,92
+133,8,Fun,82,95
+134,7,Great game,140,112
+135,5,Great game,81,122
+136,10,Mid,9,229
+137,8,Bad experience,80,266
+138,8,Mid,148,74
+139,2,Bad experience,101,181
+140,6,Mid,79,159
+141,1,Fun,124,188
+142,7,Fun,15,220
+143,8,Mid,199,128
+144,6,Bad experience,34,126
+145,1,Bad experience,153,6
+146,3,Fun,200,212
+147,7,Mid,200,211
+148,4,Mid,110,256
+149,6,Bad experience,187,6
+150,4,Great game,69,206
+151,7,Great game,134,207
+152,8,Bad experience,178,190
+153,5,Great game,91,190
+154,10,Bad experience,56,188
+155,4,Fun,1,93
+156,1,Fun,88,38
+157,8,Bad experience,141,46
+158,7,Mid,139,35
+159,4,Mid,70,123
+160,3,Great game,165,85
+161,8,Bad experience,87,64
+162,5,Bad experience,112,252
+163,2,Great game,167,277
+164,1,Bad experience,91,218
+165,1,Great game,124,269
+166,7,Bad experience,125,192
+167,5,Bad experience,192,285
+168,2,Mid,43,119
+169,1,Mid,29,120
+170,6,Mid,157,166
+171,10,Great game,7,285
+172,4,Fun,96,232
+173,6,Mid,134,17
+174,8,Bad experience,117,1
+175,10,Great game,192,270
+176,7,Fun,55,272
+177,1,Bad experience,82,40
+178,1,Mid,27,105
+179,5,Mid,173,39
+180,2,Bad experience,53,237
+181,6,Mid,1,195
+182,8,Fun,154,98
+183,3,Fun,12,230
+184,10,Fun,185,48
+185,6,Mid,136,194
+186,6,Great game,75,163
+187,8,Fun,140,236
+188,2,Fun,187,119
+189,2,Great game,13,94
+190,7,Mid,49,6
+191,3,Mid,112,29
+192,9,Great game,1,100
+193,9,Bad experience,46,7
+194,8,Fun,186,254
+195,8,Fun,51,277
+196,4,Mid,141,125
+197,9,Bad experience,195,274
+198,9,Mid,90,32
+199,7,Fun,31,102
+200,5,Bad experience,34,43
+201,6,Mid,7,106
+202,3,Great game,82,117
+203,2,Fun,59,283
+204,3,Bad experience,2,252
+205,4,Fun,199,152
+206,1,Mid,57,280
+207,8,Great game,24,211
+208,5,Mid,34,220
+209,2,Fun,88,110
+210,8,Mid,176,43
+211,3,Great game,20,209
+212,5,Bad experience,77,149
+213,7,Fun,178,127
+214,3,Great game,65,29
+215,1,Fun,156,150
+216,7,Mid,93,8
+217,9,Bad experience,148,289
+218,6,Great game,124,243
+219,8,Fun,163,159
+220,4,Mid,141,236
+221,1,Fun,100,5
+222,9,Bad experience,188,163
+223,9,Great game,92,173
+224,1,Bad experience,171,186
+225,9,Bad experience,174,165
+226,6,Great game,109,191
+227,8,Mid,189,283
+228,7,Fun,59,128
+229,3,Fun,165,148
+230,8,Great game,45,82
+231,6,Mid,188,167
+232,5,Fun,103,122
+233,9,Mid,178,51
+234,6,Great game,114,193
+235,1,Great game,195,248
+236,6,Bad experience,96,295
+237,10,Bad experience,49,157
+238,2,Fun,4,33
+239,2,Bad experience,26,116
+240,1,Mid,77,209
+241,3,Fun,164,173
+242,6,Fun,9,132
+243,6,Fun,69,186
+244,9,Fun,168,48
+245,3,Bad experience,118,183
+246,7,Fun,5,225
+247,1,Mid,23,207
+248,2,Bad experience,73,114
+249,8,Bad experience,165,74
+250,6,Mid,60,68
+251,7,Bad experience,191,122
+252,1,Great game,162,44
+253,1,Great game,186,262
+254,8,Fun,43,236
+255,3,Bad experience,156,256
+256,7,Fun,9,63
+257,1,Bad experience,44,191
+258,2,Great game,1,70
+259,8,Mid,11,197
+260,8,Fun,149,62
+261,7,Mid,167,216
+262,1,Great game,148,295
+263,5,Fun,142,73
+264,2,Mid,154,150
+265,2,Fun,182,215
+266,9,Mid,92,90
+267,1,Bad experience,8,279
+268,2,Mid,68,164
+269,6,Fun,102,166
+270,4,Bad experience,55,178
+271,3,Fun,90,164
+272,3,Great game,183,43
+273,9,Bad experience,134,134
+274,6,Mid,120,298
+275,2,Great game,191,295
+276,2,Bad experience,141,44
+277,7,Fun,110,104
+278,6,Fun,148,34
+279,4,Mid,159,136
+280,7,Great game,174,216
+281,5,Great game,172,204
+282,5,Fun,96,89
+283,10,Bad experience,81,69
+284,8,Bad experience,100,169
+285,9,Mid,49,232
+286,4,Great game,42,208
+287,6,Mid,172,195
+288,2,Great game,40,287
+289,8,Mid,190,147
+290,8,Bad experience,59,150
+291,9,Great game,129,66
+292,2,Great game,84,55
+293,6,Fun,120,192
+294,5,Fun,65,204
+295,8,Fun,149,94
+296,10,Mid,101,251
+297,8,Fun,43,293
+298,4,Mid,73,130
+299,2,Great game,11,155
+300,2,Mid,14,282
+301,7,Bad experience,51,16
+302,7,Bad experience,76,129
+303,5,Bad experience,21,82
+304,5,Great game,58,285
+305,9,Great game,94,36
+306,2,Great game,34,241
+307,3,Great game,29,115
+308,10,Bad experience,176,196
+309,3,Fun,145,158
+310,2,Fun,161,247
+311,9,Bad experience,177,15
+312,5,Great game,200,92
+313,7,Mid,195,158
+314,6,Great game,155,220
+315,7,Great game,19,73
+316,3,Fun,159,3
+317,9,Great game,54,265
+318,5,Fun,88,231
+319,2,Great game,115,29
+320,1,Great game,159,107
+321,1,Great game,88,229
+322,4,Bad experience,197,191
+323,7,Great game,129,16
+324,5,Great game,105,138
+325,5,Fun,68,34
+326,2,Great game,27,33
+327,3,Bad experience,140,217
+328,3,Mid,27,260
+329,4,Fun,35,39
+330,10,Fun,46,203
+331,2,Fun,159,249
+332,9,Great game,100,247
+333,6,Bad experience,41,105
+334,3,Mid,100,7
+335,8,Fun,158,109
+336,3,Fun,115,29
+337,1,Fun,23,163
+338,7,Mid,80,293
+339,5,Great game,75,37
+340,2,Bad experience,58,70
+341,2,Great game,153,256
+342,5,Mid,136,107
+343,9,Fun,60,81
+344,2,Bad experience,156,288
+345,6,Bad experience,65,145
+346,3,Bad experience,89,204
+347,7,Fun,114,158
+348,7,Great game,36,10
+349,2,Fun,135,240
+350,10,Bad experience,47,164
+351,7,Bad experience,183,70
+352,9,Great game,149,249
+353,5,Bad experience,76,17
+354,1,Mid,182,178
+355,7,Mid,134,148
+356,8,Great game,99,114
+357,7,Bad experience,133,197
+358,10,Bad experience,85,166
+359,9,Fun,109,104
+360,4,Fun,78,252
+361,1,Bad experience,9,175
+362,10,Mid,178,230
+363,7,Great game,191,234
+364,10,Great game,172,103
+365,2,Bad experience,193,155
+366,2,Bad experience,172,252
+367,9,Bad experience,63,283
+368,6,Fun,94,256
+369,6,Mid,131,173
+370,4,Mid,65,262
+371,6,Great game,118,142
+372,9,Bad experience,183,63
+373,3,Fun,15,115
+374,3,Great game,136,159
+375,3,Fun,182,299
+376,7,Mid,107,123
+377,5,Bad experience,130,266
+378,6,Fun,50,19
+379,3,Great game,32,229
+380,5,Great game,15,236
+381,5,Bad experience,196,132
+382,4,Great game,165,137
+383,7,Bad experience,104,68
+384,9,Fun,104,206
+385,2,Fun,114,52
+386,8,Fun,9,224
+387,9,Fun,40,104
+388,6,Mid,5,17
+389,10,Fun,15,96
+390,7,Bad experience,168,244
+391,8,Mid,6,194
+392,8,Bad experience,66,65
+393,8,Bad experience,48,134
+394,6,Fun,44,49
+395,7,Bad experience,186,266
+396,9,Mid,44,138
+397,1,Great game,136,252
+398,1,Fun,58,28
+399,4,Great game,185,35
+400,4,Mid,174,185
+401,5,Great game,68,21
+402,1,Great game,140,4
+403,1,Great game,89,160
+404,4,Mid,117,114
+405,10,Bad experience,198,248
+406,3,Great game,170,67
+407,1,Great game,123,50
+408,4,Bad experience,25,89
+409,10,Fun,135,142
+410,10,Bad experience,107,185
+411,4,Mid,156,269
+412,2,Bad experience,41,100
+413,2,Fun,120,57
+414,8,Bad experience,154,277
+415,10,Fun,100,124
+416,6,Fun,115,50
+417,1,Fun,43,120
+418,6,Bad experience,158,95
+419,2,Great game,142,277
+420,5,Mid,27,145
+421,4,Great game,55,139
+422,1,Bad experience,168,196
+423,9,Mid,147,62
+424,6,Great game,80,99
+425,9,Bad experience,199,14
+426,5,Mid,193,127
+427,6,Great game,97,196
+428,1,Fun,114,157
+429,2,Bad experience,59,71
+430,2,Fun,7,159
+431,2,Bad experience,8,49
+432,2,Great game,153,230
+433,4,Fun,54,8
+434,3,Great game,59,184
+435,6,Bad experience,94,298
+436,10,Great game,56,96
+437,8,Fun,93,173
+438,4,Mid,104,195
+439,2,Bad experience,94,222
+440,5,Great game,27,34
+441,4,Bad experience,174,205
+442,7,Bad experience,135,19
+443,8,Mid,105,100
+444,8,Fun,133,175
+445,10,Great game,3,285
+446,4,Great game,194,217
+447,10,Great game,84,142
+448,8,Fun,9,199
+449,3,Fun,77,277
+450,10,Fun,168,251
+451,1,Bad experience,27,98
+452,6,Fun,44,284
+453,8,Bad experience,141,76
+454,9,Mid,187,31
+455,4,Bad experience,70,207
+456,1,Fun,66,171
+457,2,Great game,66,155
+458,5,Bad experience,118,115
+459,9,Bad experience,29,33
+460,7,Bad experience,74,215
+461,1,Great game,120,3
+462,7,Bad experience,111,276
+463,7,Bad experience,158,76
+464,2,Fun,114,22
+465,2,Mid,89,190
+466,4,Fun,75,273
+467,2,Bad experience,118,196
+468,3,Bad experience,1,82
+469,10,Mid,98,248
+470,5,Great game,151,154
+471,4,Bad experience,172,238
+472,10,Great game,76,162
+473,6,Bad experience,152,283
+474,7,Bad experience,95,44
+475,3,Fun,16,184
+476,5,Bad experience,114,175
+477,8,Great game,180,145
+478,9,Great game,112,196
+479,4,Mid,57,265
+480,8,Great game,62,59
+481,7,Mid,196,48
+482,2,Mid,39,96
+483,5,Mid,98,136
+484,2,Great game,121,32
+485,1,Great game,35,108
+486,3,Bad experience,71,33
+487,3,Bad experience,104,176
+488,9,Bad experience,25,205
+489,2,Mid,50,75
+490,1,Mid,76,164
+491,2,Mid,73,8
+492,7,Great game,5,95
+493,6,Bad experience,32,296
+494,2,Mid,200,248
+495,2,Bad experience,69,94
+496,9,Mid,166,5
+497,5,Mid,136,42
+498,10,Mid,100,77
+499,8,Bad experience,175,14
+500,2,Mid,81,179
+501,6,Great game,5,151
+502,3,Great game,75,65
+503,6,Mid,122,291
+504,10,Great game,151,47
+505,8,Fun,137,97
+506,5,Bad experience,18,270
+507,9,Bad experience,18,149
+508,2,Fun,79,230
+509,10,Great game,81,222
+510,3,Bad experience,143,89
+511,8,Bad experience,37,288
+512,5,Mid,181,182
+513,4,Bad experience,119,54
+514,8,Fun,22,138
+515,2,Fun,61,77
+516,3,Mid,199,256
+517,2,Mid,24,43
+518,4,Mid,63,292
+519,2,Mid,122,247
+520,3,Great game,1,100
+521,7,Great game,142,300
+522,2,Great game,153,50
+523,3,Mid,45,118
+524,5,Mid,118,58
+525,5,Mid,37,231
+526,9,Mid,175,14
+527,1,Mid,130,54
+528,6,Mid,119,200
+529,2,Bad experience,57,85
+530,6,Mid,173,27
+531,9,Great game,29,172
+532,2,Bad experience,4,74
+533,7,Fun,48,76
+534,3,Mid,176,150
+535,2,Great game,143,9
+536,10,Fun,88,215
+537,4,Bad experience,149,22
+538,6,Mid,33,221
+539,7,Mid,143,181
+540,3,Great game,171,297
+541,4,Bad experience,187,69
+542,7,Fun,114,170
+543,10,Great game,188,109
+544,2,Bad experience,42,276
+545,3,Mid,189,74
+546,1,Bad experience,182,230
+547,10,Bad experience,2,124
+548,1,Mid,35,90
+549,7,Fun,170,31
+550,8,Mid,180,9
+551,3,Fun,17,247
+552,3,Great game,171,98
+553,9,Great game,48,141
+554,10,Bad experience,56,231
+555,5,Great game,139,292
+556,7,Bad experience,185,246
+557,10,Mid,26,191
+558,5,Mid,134,267
+559,9,Mid,93,125
+560,7,Bad experience,157,134
+561,5,Great game,168,277
+562,7,Fun,75,209
+563,2,Fun,179,281
+564,7,Great game,58,139
+565,8,Mid,193,274
+566,10,Fun,26,233
+567,1,Mid,117,223
+568,5,Bad experience,98,286
+569,9,Fun,34,38
+570,10,Great game,58,223
+571,4,Great game,3,225
+572,10,Great game,61,6
+573,8,Bad experience,150,7
+574,5,Bad experience,118,192
+575,2,Bad experience,124,133
+576,4,Bad experience,72,215
+577,10,Mid,9,46
+578,7,Great game,157,136
+579,10,Bad experience,34,194
+580,5,Great game,105,293
+581,8,Bad experience,23,51
+582,9,Fun,169,135
+583,4,Great game,31,55
+584,10,Fun,98,239
+585,5,Great game,105,70
+586,8,Great game,135,6
+587,5,Bad experience,184,4
+588,7,Mid,11,16
+589,4,Bad experience,119,292
+590,7,Great game,167,108
+591,8,Bad experience,136,207
+592,7,Mid,148,102
+593,7,Fun,24,147
+594,3,Fun,8,222
+595,9,Fun,143,100
+596,9,Bad experience,2,89
+597,2,Fun,24,93
+598,4,Mid,100,58
+599,3,Fun,137,268
+600,5,Mid,170,175
+601,5,Great game,21,210
+602,7,Fun,113,278
+603,3,Fun,102,47
+604,8,Fun,95,171
+605,1,Mid,134,34
+606,7,Bad experience,143,147
+607,4,Mid,10,187
+608,6,Bad experience,18,257
+609,1,Mid,185,273
+610,6,Bad experience,42,33
+611,10,Great game,95,247
+612,3,Bad experience,101,81
+613,1,Bad experience,138,150
+614,8,Fun,140,284
+615,8,Bad experience,168,108
+616,2,Fun,3,92
+617,2,Great game,27,233
+618,7,Mid,148,245
+619,7,Fun,65,273
+620,4,Mid,26,188
+621,3,Great game,35,166
+622,9,Fun,79,81
+623,1,Bad experience,56,70
+624,3,Mid,40,170
+625,2,Great game,72,126
+626,9,Fun,187,179
+627,3,Bad experience,194,229
+628,4,Fun,172,21
+629,7,Bad experience,181,260
+630,7,Mid,75,90
+631,7,Bad experience,82,209
+632,7,Bad experience,167,76
+633,5,Great game,168,276
+634,2,Fun,23,252
+635,8,Fun,153,183
+636,1,Mid,55,110
+637,4,Fun,62,95
+638,5,Mid,111,159
+639,7,Great game,22,87
+640,9,Bad experience,98,299
+641,9,Fun,12,154
+642,3,Great game,87,229
+643,1,Bad experience,10,81
+644,8,Great game,32,143
+645,1,Fun,178,35
+646,1,Mid,105,203
+647,4,Great game,46,159
+648,6,Mid,103,149
+649,9,Great game,139,288
+650,6,Fun,21,17
+651,1,Fun,151,32
+652,7,Bad experience,62,80
+653,4,Fun,159,264
+654,7,Bad experience,100,35
+655,10,Fun,126,42
+656,1,Fun,141,245
+657,2,Fun,75,250
+658,7,Fun,124,290
+659,4,Great game,155,88
+660,9,Great game,59,212
+661,10,Bad experience,28,268
+662,6,Mid,53,207
+663,7,Great game,14,116
+664,8,Fun,198,221
+665,4,Mid,59,14
+666,5,Fun,109,57
+667,7,Bad experience,175,74
+668,2,Mid,107,79
+669,4,Fun,111,79
+670,2,Bad experience,171,96
+671,10,Fun,159,147
+672,2,Fun,182,128
+673,8,Bad experience,86,35
+674,7,Great game,56,65
+675,5,Great game,65,258
+676,2,Great game,127,2
+677,7,Great game,50,62
+678,1,Bad experience,21,271
+679,8,Bad experience,120,46
+680,8,Mid,61,246
+681,10,Mid,121,140
+682,7,Great game,24,114
+683,1,Mid,21,187
+684,5,Mid,12,218
+685,9,Great game,51,251
+686,6,Mid,27,160
+687,6,Bad experience,19,168
+688,1,Bad experience,129,213
+689,2,Great game,151,147
+690,1,Bad experience,51,30
+691,9,Fun,179,271
+692,10,Mid,132,122
+693,6,Great game,70,136
+694,4,Great game,66,95
+695,9,Fun,121,65
+696,3,Bad experience,132,191
+697,5,Bad experience,109,164
+698,2,Great game,144,294
+699,2,Bad experience,123,278
+700,6,Bad experience,74,47
+701,2,Great game,146,276
+702,8,Fun,45,13
+703,9,Great game,88,143
+704,7,Mid,194,179
+705,10,Mid,38,283
+706,6,Mid,145,14
+707,1,Fun,37,80
+708,2,Fun,3,124
+709,2,Fun,99,143
+710,8,Fun,159,53
+711,8,Bad experience,157,199
+712,7,Fun,36,108
+713,6,Fun,177,15
+714,3,Mid,148,269
+715,9,Great game,153,38
+716,7,Mid,67,212
+717,1,Fun,109,283
+718,10,Great game,146,259
+719,4,Mid,44,101
+720,4,Great game,158,45
+721,10,Mid,69,166
+722,3,Fun,74,119
+723,2,Great game,33,180
+724,4,Bad experience,32,230
+725,2,Fun,123,43
+726,10,Bad experience,64,17
+727,7,Bad experience,100,212
+728,2,Great game,68,271
+729,1,Great game,68,149
+730,5,Great game,91,71
+731,10,Fun,61,220
+732,8,Bad experience,37,53
+733,5,Mid,75,122
+734,4,Mid,151,21
+735,9,Great game,35,9
+736,7,Mid,159,176
+737,4,Great game,101,54
+738,1,Fun,48,258
+739,7,Bad experience,9,76
+740,5,Mid,42,54
+741,2,Mid,27,180
+742,6,Bad experience,148,111
+743,10,Great game,104,210
+744,1,Fun,76,299
+745,6,Fun,152,16
+746,6,Fun,45,5
+747,10,Mid,155,220
+748,7,Fun,100,93
+749,7,Fun,18,87
+750,3,Great game,161,75
+751,1,Mid,123,135
+752,2,Bad experience,189,145
+753,6,Fun,32,103
+754,2,Fun,47,146
+755,4,Bad experience,154,19
+756,10,Bad experience,181,101
+757,10,Mid,37,162
+758,2,Bad experience,126,43
+759,2,Fun,177,69
+760,2,Mid,175,129
+761,8,Great game,73,183
+762,2,Fun,150,65
+763,9,Mid,60,136
+764,8,Great game,90,111
+765,10,Bad experience,33,245
+766,9,Bad experience,155,14
+767,10,Fun,42,288
+768,1,Mid,62,25
+769,7,Mid,50,31
+770,7,Mid,65,15
+771,6,Fun,68,124
+772,3,Bad experience,94,73
+773,3,Bad experience,44,7
+774,1,Great game,21,107
+775,5,Great game,84,300
+776,10,Mid,196,168
+777,3,Fun,37,224
+778,8,Bad experience,152,142
+779,1,Fun,109,59
+780,8,Bad experience,61,161
+781,10,Bad experience,171,90
+782,10,Fun,132,264
+783,3,Fun,176,180
+784,8,Bad experience,164,177
+785,7,Bad experience,115,71
+786,2,Bad experience,182,178
+787,4,Mid,36,231
+788,7,Bad experience,178,194
+789,9,Great game,52,86
+790,8,Great game,104,64
+791,4,Fun,156,160
+792,9,Fun,198,297
+793,7,Mid,10,294
+794,8,Fun,195,100
+795,6,Mid,93,285
+796,4,Fun,120,14
+797,7,Bad experience,1,293
+798,10,Mid,98,239
+799,5,Bad experience,30,244
+800,4,Fun,35,172
