@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+{% block title %}Список ігор{% endblock %}
+
+{% block content %}
+<h1 class="mb-4">Ігри в Steam</h1>
+
+<!-- 🔘 Кнопка додавання гри -->
+<div class="mb-3 text-end">
+    <a href="{{ url_for('add_game') }}" class="btn btn-success">
+        ➕ Додати нову гру
+    </a>
+</div>
+
+<table class="table table-striped table-bordered align-middle">
+    <thead class="table-dark text-center">
+        <tr>
+            <th>Назва</th>
+            <th>Жанр</th>
+            <th>Розробник</th>
+            <th>Рік</th>
+            <th>Рейтинг</th>
+            <th>Ціна</th>
+            <th>Дії</th>
+        </tr>
+    </thead>
+    <tbody class="text-center">
+        {% for game in games %}
+        <tr>
+            <td>{{ game.name }}</td>
+            <td>{{ game.genre }}</td>
+            <td>{{ game.developer }}</td>
+            <td>{{ game.year }}</td>
+            <td>{{ game.rating }}</td>
+            <td>{{ game.price }} $</td>
+            <td>
+                <a href="/edit/{{ game.id }}" class="btn btn-sm btn-warning">Редагувати</a>
+                <a href="/delete/{{ game.id }}" class="btn btn-sm btn-danger">Видалити</a>
+            </td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %}

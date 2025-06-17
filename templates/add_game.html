@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block title %}Додати гру{% endblock %}
+
+{% block content %}
+<h1>Додати нову гру</h1>
+<form method="post" class="mt-3">
+  {% include "form_fields.html" %}
+  <button type="submit" class="btn btn-primary">Додати</button>
+  <a href="/" class="btn btn-secondary">Назад</a>
+</form>
+{% endblock %}
